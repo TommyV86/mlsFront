@@ -7,19 +7,19 @@ export const Footer = () => {
     <footer class="footer-bs bg-dark">
         <div class="row">
         	<div class="col-md-3 footer-brand">
-            	<h2> <a href="/"><img className="img-fluid" src="https://cdn.discordapp.com/attachments/460567870900797490/880459652112998431/thumbnail.png" alt="Responsive imag"/></a></h2>
-                <p>Ouais ici tu donnes des infos sur insy2s, genre Nizar il est grave chaud et la team MLS est formée de beaux gosses, ce genre d'infos la quoi.</p>
-                <p>© 2021 Les céréales avant le lait</p>
+                <h2>MyLittleStack</h2>
+                <p>Anim mollit laboris sit dolor commodo proident. Pariatur tempor dolore esse tempor esse enim in velit minim ut sit do incididunt aute. Consectetur do sit in irure. Ullamco amet officia laboris veniam consectetur magna minim aute anim. Cupidatat nostrud quis ad dolor </p>
+                <p>© 2021 All rights reserved</p>
             </div>
         	<div class="col-md-4 footer-nav">
             	<h4>Fonctionnalité —</h4>
             	<div class="col-md-6">
                     <ul class="pages">
-                        <li><a href="#">Fonctionnalité</a></li>
-                        <li><a href="#">Fonctionnalité</a></li>
-                        <li><a href="#">Fonctionnalité</a></li>
-                        <li><a href="#">Chocolatine</a></li>
-                        <li><a href="#">Fonctionnalité</a></li>
+                        <li><a href="/">Fonctionnalité</a></li>
+                        <li><a href="/">Fonctionnalité</a></li>
+                        <li><a href="/">Fonctionnalité</a></li>
+                        <li><a href="/">Chocolatine</a></li>
+                        <li><a href="/">Fonctionnalité</a></li>
                     </ul>
                 </div>
             </div>
